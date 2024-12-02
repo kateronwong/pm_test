@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca74f619b3929d34fbe1cc649923ab9b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28647
+  packageName: 3rd Person Controller + Fly Mode
+  packageVersion: 2.1.6
+  assetPath: Assets/3rdPerson+Fly/Scenes/3rdPerson+FlySettings.lighting
+  uploadId: 621162

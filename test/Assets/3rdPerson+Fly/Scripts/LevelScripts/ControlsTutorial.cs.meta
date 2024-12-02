@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 10f2785937e90f84bb96560b7426b333
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28647
+  packageName: 3rd Person Controller + Fly Mode
+  packageVersion: 2.1.6
+  assetPath: Assets/3rdPerson+Fly/Scripts/LevelScripts/ControlsTutorial.cs
+  uploadId: 621162

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: edce6a3cd6b78e7459bd2864b9295f8c
+timeCreated: 1505869402
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28647
+  packageName: 3rd Person Controller + Fly Mode
+  packageVersion: 2.1.6
+  assetPath: Assets/3rdPerson+Fly/Scenes/3rdPerson+Fly.unity
+  uploadId: 621162

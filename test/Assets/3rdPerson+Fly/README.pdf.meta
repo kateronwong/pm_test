@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56efd77465500044fa2b957f531762eb
+timeCreated: 1507091259
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28647
+  packageName: 3rd Person Controller + Fly Mode
+  packageVersion: 2.1.6
+  assetPath: Assets/3rdPerson+Fly/README.pdf
+  uploadId: 621162

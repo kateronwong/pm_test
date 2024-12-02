@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afb0431deb5daa5478aeb1b0a6372eac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28647
+  packageName: 3rd Person Controller + Fly Mode
+  packageVersion: 2.1.6
+  assetPath: Assets/3rdPerson+Fly/Readme.asset
+  uploadId: 621162
